@@ -4,7 +4,7 @@ An offbeat adblocker that utilizes the YouTube iframe API to replace the vanilla
 
 ## Demo
 
-demo gif:  
+demo gif (without autoplay):  
 ![demo](demo/demo.gif)
 
 demo code:  
